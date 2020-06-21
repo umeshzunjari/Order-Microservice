@@ -1,0 +1,10 @@
+com\ordermanagement\Order\entity\CompositePrimary.class
+com\ordermanagement\Order\repository\ProductsOrderedRepository.class
+com\ordermanagement\Order\dto\OrderDetailsDTO.class
+com\ordermanagement\Order\repository\OrderRepository.class
+com\ordermanagement\Order\entity\ProductsOrdered.class
+com\ordermanagement\Order\service\OrderService.class
+com\ordermanagement\Order\entity\OrderDetails.class
+com\ordermanagement\Order\dto\ProductsOrderedDTO.class
+com\ordermanagement\Order\OrderApplication.class
+com\ordermanagement\Order\controller\OrderController.class

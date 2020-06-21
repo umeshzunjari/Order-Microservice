@@ -1,0 +1,40 @@
+
+bcom.ordermanagement.Order.controller.OrderController#remove(Ljava/lang/Integer;)Ljava/lang/String;Z
+PD:/Order/src/main/java/com/ordermanagement/Order/controller/OrderController.javaV V("1*ž
+
+1Z
+PD:/Order/src/main/java/com/ordermanagement/Order/controller/OrderController.javaW W(Ã
+À
+Z
+PD:/Order/src/main/java/com/ordermanagement/Order/controller/OrderController.javaW W(
+%0org.slf4j.Logger"__id*D*B6
+4com.ordermanagement.Order.controller.OrderController"
+logger¾»
+Z
+PD:/Order/src/main/java/com/ordermanagement/Order/controller/OrderController.javaW W(C
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*-+
+)request from the buyer {} to delete order*
+
+orderidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)ç
+ä
+Z
+PD:/Order/src/main/java/com/ordermanagement/Order/controller/OrderController.javaX X(4
+%2.com.ordermanagement.Order.service.OrderService"__id*J*H6
+4com.ordermanagement.Order.controller.OrderController"
+orderServiceÇÄ
+Z
+PD:/Order/src/main/java/com/ordermanagement/Order/controller/OrderController.javaX X(+
+
+%3void"Xcom.ordermanagement.Order.service.OrderService#removeOrderfromlist(Ljava/lang/Integer;)V*6
+4
+%2.com.ordermanagement.Order.service.OrderService*
+
+orderidjava.lang.Integer2(removeOrderfromlist(Ljava/lang/Integer;)"
+Z
+PD:/Order/src/main/java/com/ordermanagement/Order/controller/OrderController.javaY Y(+#!
+deleted the  order successfully:
+orderidjava.lang.IntegerB86
+4com.ordermanagement.Order.controller.OrderController

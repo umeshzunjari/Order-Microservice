@@ -1,0 +1,16 @@
+
+Mcom.ordermanagement.Order.entity.OrderDetails#getOrderid()Ljava/lang/Integer;S
+ID:/Order/src/main/java/com/ordermanagement/Order/entity/OrderDetails.java7 7("1*„
+1S
+ID:/Order/src/main/java/com/ordermanagement/Order/entity/OrderDetails.java8	 8(·
+´
+S
+ID:/Order/src/main/java/com/ordermanagement/Order/entity/OrderDetails.java8	 8(
+%0java.lang.Integer"__id*>*</
+-com.ordermanagement.Order.entity.OrderDetails"	
+orderid"p
+S
+ID:/Order/src/main/java/com/ordermanagement/Order/entity/OrderDetails.java8 8(
+
+%0java.lang.IntegerB1/
+-com.ordermanagement.Order.entity.OrderDetails

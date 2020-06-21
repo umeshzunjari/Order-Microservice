@@ -1,0 +1,16 @@
+
+Jcom.ordermanagement.Order.entity.OrderDetails#getAmount()Ljava/lang/Float;S
+ID:/Order/src/main/java/com/ordermanagement/Order/entity/OrderDetails.java% %("1*ÿ
+1S
+ID:/Order/src/main/java/com/ordermanagement/Order/entity/OrderDetails.java&	 &(´
+±
+S
+ID:/Order/src/main/java/com/ordermanagement/Order/entity/OrderDetails.java&	 &(
+%0java.lang.Float"__id*=*;/
+-com.ordermanagement.Order.entity.OrderDetails"
+amount"n
+S
+ID:/Order/src/main/java/com/ordermanagement/Order/entity/OrderDetails.java& &(
+
+%0java.lang.FloatB1/
+-com.ordermanagement.Order.entity.OrderDetails

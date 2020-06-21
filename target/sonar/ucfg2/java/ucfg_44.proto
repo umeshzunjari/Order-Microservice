@@ -1,0 +1,16 @@
+
+Gcom.ordermanagement.Order.dto.OrderDetailsDTO#getDate()Ljava/util/Date;S
+ID:/Order/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java# #("1*û
+1S
+ID:/Order/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java$	 $(±
+®
+S
+ID:/Order/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java$	 $(
+%0java.util.Date"__id*;*9/
+-com.ordermanagement.Order.dto.OrderDetailsDTO"
+date"m
+S
+ID:/Order/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java$ $(
+
+%0java.util.DateB1/
+-com.ordermanagement.Order.dto.OrderDetailsDTO

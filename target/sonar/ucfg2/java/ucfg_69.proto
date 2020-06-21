@@ -1,0 +1,17 @@
+
+Qcom.ordermanagement.Order.dto.ProductsOrderedDTO#getSellerid()Ljava/lang/Integer;V
+LD:/Order/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.java, ,("1*‘
+1V
+LD:/Order/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.java-	 -(¾
+»
+V
+LD:/Order/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.java-	 -(
+%0java.lang.Integer"__id*B*@2
+0com.ordermanagement.Order.dto.ProductsOrderedDTO"
+
+sellerid"s
+V
+LD:/Order/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.java- -(
+
+%0java.lang.IntegerB42
+0com.ordermanagement.Order.dto.ProductsOrderedDTO

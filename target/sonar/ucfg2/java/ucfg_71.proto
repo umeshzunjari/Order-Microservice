@@ -1,0 +1,16 @@
+
+Ncom.ordermanagement.Order.dto.ProductsOrderedDTO#getStatus()Ljava/lang/String;V
+LD:/Order/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.java2 2("1*
+1V
+LD:/Order/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.java3	 3(»
+¸
+V
+LD:/Order/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.java3	 3(
+%0java.lang.String"__id*@*>2
+0com.ordermanagement.Order.dto.ProductsOrderedDTO"
+status"r
+V
+LD:/Order/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.java3 3(
+
+%0java.lang.StringB42
+0com.ordermanagement.Order.dto.ProductsOrderedDTO
